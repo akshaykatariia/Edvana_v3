@@ -1,4 +1,4 @@
-import logo from './logo.svg'
+import logo from './logo.png'
 import logo_dark from './logo_dark.svg'
 import search_icon from './search_icon.svg'
 import cross_icon from './cross_icon.svg'
@@ -42,6 +42,7 @@ import profile_img from './profile_img.png'
 import profile_img2 from './profile_img2.png'
 import profile_img3 from './profile_img3.png'
 import lesson_icon from './lesson_icon.svg'
+import person_1 from './person_1.png'
 
 
 export const assets = {
@@ -88,30 +89,31 @@ export const assets = {
     profile_img3,
     play_icon,
     blue_tick_icon,
-    lesson_icon
+    lesson_icon,
+    person_1
 }
 
 export const dummyTestimonial = [
     {
-        name: 'Donald Jackman',
+        name: 'Dev Sangwan',
         role: 'SWE 1 @ Amazon',
-        image: assets.profile_img_1,
+        image: assets.person_1,
         rating: 5,
-        feedback: 'I\'ve been using Imagify for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.',
+        feedback: 'Edvana completely changed the way I study. The personalized learning paths and interactive sessions made even the toughest subjects easy to understand.',
     },
     {
-        name: 'Richard Nelson',
+        name: 'Kaushal',
         role: 'SWE 2 @ Samsung',
-        image: assets.profile_img_2,
+        image: assets.person_1,
         rating: 4,
-        feedback: 'I\'ve been using Imagify for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.',
+        feedback: 'As a parent, I’ve seen my daughter grow more confident in her academics after using Edvana. The progress tracking is a huge plus for me.',
     },
     {
-        name: 'James Washington',
+        name: 'Sahil Shah',
         role: 'SWE 2 @ Google',
-        image: assets.profile_img_3,
+        image: assets.person_1,
         rating: 4.5,
-        feedback: 'I\'ve been using Imagify for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.',
+        feedback: 'Edvana bridges the gap between teachers and students beautifully. The platform is intuitive, and the analytics help me focus on areas where my students need extra attention.',
     },
 ];
 
