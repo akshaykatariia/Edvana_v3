@@ -59,5 +59,5 @@ In this project, we are building a full-featured LMS platform where:
 git clone https://github.com/your-username/LMS_Edvana.git
 cd LMS_Edvana
 ```
-"# Edvana_v2" 
-"# Edvana_v2" 
+"# Edvana_v3" 
+"# Edvana_V3" 
