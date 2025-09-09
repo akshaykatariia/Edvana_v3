@@ -74,7 +74,7 @@ const CourseDetails = () => {
       if (data.success) {
         const { session_url } = data
         window.location.replace(session_url)
-      } else {
+      } else {  
         toast.error(data.message)
       }
 
