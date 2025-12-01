@@ -13,7 +13,7 @@ export default {
         'section-height': '500px',
       },
       fontSize: {
-        'default': ['15px', '21px'],
+        'default': ['16px', '24px'],
         'course-deatails-heading-small': ['26px', '36px'],
         'course-deatails-heading-large': ['36px', '44px'],
         'home-heading-small': ['28px', '34px'],
